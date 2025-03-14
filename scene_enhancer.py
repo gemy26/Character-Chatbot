@@ -75,11 +75,16 @@ Scene: {scene_text}
         return None
 
 processed_scenes = []
+
+cnt = 0
 for scene in scenes:
+    cnt += 1
     completed_scene = process_scene(scene["scene"])
     if completed_scene:
         processed_scenes.append(completed_scene)
-    time.sleep(120) 
+    time.sleep(10) 
+    if cnt == 3:
+        break
 
 with open(f"structured__scenes.json", "w") as file:
     json.dump(processed_scenes, file, indent=2)

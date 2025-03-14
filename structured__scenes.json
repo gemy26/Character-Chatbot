@@ -1,181 +1,115 @@
 [
   {
-    "scene_title": "Blizzard and News Reports",
-    "location": "Unspecified",
-    "characters": [],
-    "dialogue": [],
-    "actions": [
-      "A blizzard of cuts round various news reports.",
-      "News headlines are shown quickly."
+    "scene_title": "News Reports on Afghanistan",
+    "location": "Various news broadcast locations",
+    "characters": [
+      "NEWSEADER"
     ],
-    "emotions": []
+    "dialogue": [
+      {
+        "speaker": "NEWSEADER",
+        "text": "-- Afghanistan --"
+      }
+    ],
+    "actions": [
+      "Screen snows and --",
+      "A blizzard of cuts round various news reports, fast, just snatched words and phrases --"
+    ]
   },
   {
-    "scene_title": "ITN NEWSREADER",
-    "location": "Dirt road, unknown location",
+    "scene_title": "News Reports and Video Footage",
+    "location": "Various news studios and battlefield",
     "characters": [
-      "Sky Newsreader",
-      "BBC Newsreader",
+      "ITN NEWSREADER",
+      "SKY NEWSREADER",
+      "BBC NEWSREADER",
       "MAN"
     ],
     "dialogue": [
       {
-        "speaker": "Sky Newsreader",
-        "text": "Four dead, two injured"
+        "speaker": "ITN NEWSREADER",
+        "text": "British troops involved in a --"
       },
       {
-        "speaker": "BBC Newsreader",
-        "text": "Increased hostilities over the last few weeks"
+        "speaker": "SKY NEWSREADER",
+        "text": "-- four dead, two injured --"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Watson!!"
+      },
+      {
+        "speaker": "BBC NEWSREADER",
+        "text": "-- increased hostilities over the last few weeks --"
+      },
+      {
+        "speaker": "SKY NEWSREADER",
+        "text": "-- until relatives have been informed --"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Watson!!"
       }
     ],
     "actions": [
-      "Sky Newsreader reads news report",
-      "BBC Newsreader reads news report",
-      "Camera shows chaotic footage of a crashed jeep, gunfire, and soldiers running",
-      "A man yells 'Watson!!'"
-    ],
-    "emotions": []
+      "Video phone shows chaotic, accidental footage of a dirt road, a crashed jeep belching smoke, gunfire, and soldiers running."
+    ]
   },
   {
-    "scene_title": "A Study in Pink",
-    "location": "John's Bedsit (Night and Day) and Therapist's Consulting Room",
+    "scene_title": "John Watson's Night and Day",
+    "location": "John's Bedsit",
     "characters": [
       "Dr. John Watson",
-      "Ella (Therapist)"
+      "Ella"
     ],
     "dialogue": [
       {
-        "speaker": "Ella (V.O)",
-        "text": "How's your blog going?"
+        "speaker": "MAN",
+        "text": "Watson!!"
       },
       {
-        "speaker": "John",
+        "speaker": "ELLA",
+        "text": "How\u2019s your blog going?"
+      },
+      {
+        "speaker": "JOHN",
         "text": "Oh, fine. Good. Very good."
       },
       {
-        "speaker": "Ella",
-        "text": "You haven't written a word, have you?"
+        "speaker": "ELLA",
+        "text": "You haven\u2019t written a word, have you?"
       },
       {
-        "speaker": "John",
-        "text": "You just wrote \u2018still has trust issues\u2019."
+        "speaker": "JOHN",
+        "text": "You just wrote \u201cstill has trust issues\u201d."
       },
       {
-        "speaker": "Ella",
+        "speaker": "ELLA",
         "text": "And you read my writing upside down. See what I mean?"
       },
       {
-        "speaker": "John",
+        "speaker": "ELLA",
+        "text": "John, you\u2019re a soldier. It\u2019s going to take you a while to adjust to civilian life - writing a blog about everything that happens to you, will honestly help you. Trust me."
+      },
+      {
+        "speaker": "JOHN",
         "text": "Nothing happens to me."
       }
     ],
     "actions": [
-      "A man, startling awake, sweating in his bed.",
+      "John wakes up, sweating in his bed.",
       "John sits up, calming himself, letting his breathing return to normal.",
-      "John looks around the room.",
-      "John looks at a walking cane, frowns.",
-      "Later - first light. Close on a coffee cup as it is set down on the desk.",
-      "Panning down the desk drawer as John pulls it open, removes a laptop computer",
-      "Revealing something else in the drawer. A hand gun",
-      "John's look holds on the gun for a moment, like it's a curious temptation to him",
-      "Then he firmly closes the drawer.",
-      "The lap top computer open at: A blog page. Closer on the Page Title: The Personal Blog Of Dr. John H. Watson",
-      "Panning down the screen to an empty page. The cursor winking away, expectant.",
-      "We roll focus to see John\u2019s face, reflected.",
-      "Ella sits opposite John Watson, her notepad out.",
-      "John sits stiffly in his chair. Out of place. A little embarrassed.",
-      "Closer on John. He looks bleakly at her - a proud soldier, stoic, but somehow broken and lost."
+      "John looks around the room, then at his walking cane with a frown.",
+      "John sets down a coffee cup on the desk, opens a drawer, removes a laptop and sees a hand gun.",
+      "John looks at the gun for a moment, then firmly closes the drawer.",
+      "John opens a blog page on the laptop.",
+      "John sits stiffly in a therapist's chair, looking bleakly at Ella."
     ],
     "emotions": [
-      "startled",
-      "calm",
-      "dazed",
-      "pained",
-      "resistant",
-      "embarrassed",
-      "determined",
-      "bleak"
+      "John appears dazed and pained, having been through hard times.",
+      "John looks fiercely resentful at his walking cane.",
+      "John seems tempted by the gun but resists.",
+      "John appears proud but broken and lost during the therapy session."
     ]
-  },
-  {
-    "scene_title": "Lestrade Meets Sherlock",
-    "location": "Roof of Scotland Yard",
-    "characters": [
-      "Lestrade",
-      "Sherlock Holmes"
-    ],
-    "dialogue": [
-      {
-        "speaker": "Lestrade",
-        "text": "Trying to give these up actually. I was thinking of a pipe. What do pipes do for you cigarettes don't?"
-      },
-      {
-        "speaker": "Sherlock",
-        "text": "Cancer of the jaw."
-      },
-      {
-        "speaker": "Lestrade",
-        "text": "Okay. What am I getting wrong this time?"
-      },
-      {
-        "speaker": "Sherlock",
-        "text": "No notes. No prior sign. Each of them in a strange location that means nothing to them where they've never gone before... That's not how I'd kill myself."
-      },
-      {
-        "speaker": "Lestrade",
-        "text": "... So. How are you doing these days?"
-      }
-    ],
-    "actions": [
-      "Lestrade steps through a service door, on the flat roof. He starts to light the cigarette.",
-      "Lestrade speaks lightly and casually, knowing there\u2019s someone there to hear.",
-      "A beat - and a cultured voice from off.",
-      "Sherlock is standing with his back to us right at the edge of the roof, looking out over London.",
-      "Lestrade glances uneasily at the edge of the roof, where Sherlock is standing."
-    ],
-    "emotions": []
-  },
-  {
-    "scene_title": "Meeting with Mike Stamford",
-    "location": "EXT. PARK - DAY",
-    "characters": [
-      "John Watson",
-      "Mike Stamford"
-    ],
-    "dialogue": [
-      {
-        "speaker": "Mike",
-        "text": "John!"
-      },
-      {
-        "speaker": "Watson",
-        "text": "Yes."
-      },
-      {
-        "speaker": "Mike",
-        "text": "Stamford - Mike Stamford, we were at Barts together."
-      },
-      {
-        "speaker": "Watson",
-        "text": "Yes.  Sorry, yes, Mike, hello!"
-      },
-      {
-        "speaker": "Mike",
-        "text": "Yes, I know, I got fat. I heard you were abroad somewhere getting shot at.  What happened?"
-      },
-      {
-        "speaker": "Watson",
-        "text": "I got shot."
-      }
-    ],
-    "actions": [
-      "John hobbles along",
-      "People are strolling, walking dogs, jogging",
-      "John ignores the voice",
-      "Mike grabs John's hand, pumping it",
-      "John turns",
-      "Mike shouts John's name"
-    ],
-    "emotions": []
   }
 ]
