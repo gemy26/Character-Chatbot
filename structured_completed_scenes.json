@@ -1,0 +1,123 @@
+[
+  {
+    "scene_title": "News Reports Montage",
+    "location": "Various news broadcast locations",
+    "characters": [
+      "NEWSEADER"
+    ],
+    "dialogue": [
+      {
+        "speaker": "NEWSEADER",
+        "text": "-- Afghanistan --"
+      }
+    ],
+    "actions": [
+      "Screen snows and --",
+      "A blizzard of cuts round various news reports, fast, just snatched words and phrases --"
+    ],
+    "emotions": []
+  },
+  {
+    "scene_title": "War Zone News Reports",
+    "location": "Various news studios and war zone",
+    "characters": [
+      "ITN NEWSREADER",
+      "SKY NEWSREADER",
+      "BBC NEWSREADER",
+      "MAN"
+    ],
+    "dialogue": [
+      {
+        "speaker": "ITN NEWSREADER",
+        "text": "British troops involved in a --"
+      },
+      {
+        "speaker": "SKY NEWSREADER",
+        "text": "-- four dead, two injured --"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Watson!!"
+      },
+      {
+        "speaker": "BBC NEWSREADER",
+        "text": "-- increased hostilities over the last few weeks --"
+      },
+      {
+        "speaker": "SKY NEWSREADER",
+        "text": "-- until relatives have been informed --"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Watson!!"
+      }
+    ],
+    "actions": [
+      "Video phone shows chaotic, accidental footage of a dirt road, a crashed jeep belching smoke, gunfire, and soldiers running."
+    ],
+    "emotions": []
+  },
+  {
+    "scene_title": "John Watson's Night and Day",
+    "location": "John's Bedsit",
+    "characters": [
+      "Dr. John Watson",
+      "Ella"
+    ],
+    "dialogue": [
+      {
+        "speaker": "MAN",
+        "text": "Watson!!"
+      },
+      {
+        "speaker": "ELLA",
+        "text": "How\u2019s your blog going?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Oh, fine.  Good.  Very good."
+      },
+      {
+        "speaker": "ELLA",
+        "text": "You haven\u2019t written a word, have you?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "You just wrote \u201cstill has trust issues\u201d."
+      },
+      {
+        "speaker": "ELLA",
+        "text": "And you read my writing upside down.  See what I mean?"
+      },
+      {
+        "speaker": "ELLA",
+        "text": "John, you\u2019re a soldier.  It\u2019s going to take you a while to adjust to civilian life - writing a blog about everything that happens to you, will honestly help you.  Trust me."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Nothing happens to me."
+      }
+    ],
+    "actions": [
+      "John wakes up, sweating in his bed.",
+      "John sits up, calming himself.",
+      "John looks around the room.",
+      "John frowns at the walking cane.",
+      "John sets down a coffee cup on the desk.",
+      "John opens a drawer and removes a laptop computer.",
+      "John looks at a hand gun in the drawer.",
+      "John firmly closes the drawer.",
+      "John opens a blog page on the laptop.",
+      "John sits stiffly in his chair in the therapist's consulting room.",
+      "Ella makes a note in her notepad."
+    ],
+    "emotions": [
+      "John is dazed and pained.",
+      "John is resentful towards the walking cane.",
+      "John is tempted by the gun.",
+      "John is concentrated on the blog.",
+      "John is embarrassed in the therapist's room.",
+      "John looks bleakly at Ella."
+    ]
+  }
+]
