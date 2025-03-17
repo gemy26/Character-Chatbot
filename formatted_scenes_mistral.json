@@ -1,0 +1,1148 @@
+[
+    {
+        "scene_id": "SC001_NEWS_BLIZZARD",
+        "title": "News Blizzard",
+        "location": "A bustling newsroom filled with the hum of activity. Multiple screens display various news channels, each flickering with urgent updates. The room is a mix of modern technology and chaotic energy, with reporters and producers rushing about.",
+        "time": "Evening, during a live news broadcast. The atmosphere is tense and electric, with the weight of breaking news hanging in the air.",
+        "characters": [
+            "News Anchor",
+            "Producer",
+            "Reporter"
+        ],
+        "scene_description": "The screen flickers with static before cutting to a rapid-fire montage of news reports from around the world. The camera zooms in on the News Anchor, who sits behind a sleek desk, papers scattered in front of them. The Producer stands nearby, headset on, barking orders to the crew. A Reporter rushes in, breathless, clutching a tablet with the latest updates.",
+        "dialogue": [
+            {
+                "speaker": "Producer",
+                "line": "We're live in 5, everyone get ready!"
+            },
+            {
+                "speaker": "News Anchor",
+                "line": "Good evening, we interrupt your regular programming to bring you breaking news from around the world."
+            },
+            {
+                "speaker": "Reporter",
+                "line": "Just got an update from our correspondent in Kabul."
+            },
+            {
+                "speaker": "News Anchor",
+                "line": "Thank you. We're receiving reports of escalating tensions in Afghanistan..."
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "News Anchor",
+                "line": "This is it. The moment we've been preparing for. I need to stay calm and deliver the news accurately."
+            },
+            {
+                "character": "Producer",
+                "line": "Everything needs to run smoothly. The world is watching."
+            }
+        ],
+        "actions": [
+            {
+                "character": "Producer",
+                "action": "Adjusts their headset, eyes scanning the monitors, hands gesturing to the crew."
+            },
+            {
+                "character": "Reporter",
+                "action": "Hands the tablet to the News Anchor, stepping back to watch the broadcast."
+            },
+            {
+                "character": "News Anchor",
+                "action": "Takes a deep breath, straightens their posture, and looks directly into the camera."
+            }
+        ],
+        "emotions": {
+            "News Anchor": "Focused, slightly anxious",
+            "Producer": "Determined, stressed",
+            "Reporter": "Excited, nervous"
+        },
+        "outcome": "The News Anchor delivers the breaking news with professionalism, the Producer ensures the broadcast runs smoothly, and the Reporter stands by, ready to provide more updates as they come in. The newsroom continues to buzz with activity as the world tunes in to the latest developments."
+    },
+    {
+        "scene_id": "SCN001_ AmbushAftermath",
+        "title": "Ambush Aftermath",
+        "location": "A dusty, remote dirt road lined with sparse vegetation and the wreckage of a military jeep, smoke billowing from its hood. The sound of distant gunfire echoes through the air.",
+        "time": "Early evening, the sun beginning to set, casting long, dramatic shadows across the chaotic scene.",
+        "characters": [
+            "ITN Newsreader",
+            "Sky Newsreader",
+            "BBC Newsreader",
+            "Man (Soldier)",
+            "Watson (Soldier)",
+            "Other Soldiers"
+        ],
+        "scene_description": "The scene is chaotic, with the camera shaking and capturing accidental footage. A dirt road stretches out, with a crashed jeep belching smoke. Gunfire rings out sporadically, and soldiers are seen running in various directions, some trying to take cover, others attempting to assist their fallen comrades. The air is thick with tension and the acrid smell of smoke and gunpowder.",
+        "dialogue": [
+            {
+                "speaker": "ITN Newsreader",
+                "line": "British troops involved in a..."
+            },
+            {
+                "speaker": "Sky Newsreader",
+                "line": "...four dead, two injured in a sudden ambush today."
+            },
+            {
+                "speaker": "Man (Soldier)",
+                "line": "Watson!!"
+            },
+            {
+                "speaker": "BBC Newsreader",
+                "line": "...increased hostilities over the last few weeks have resulted in multiple casualties."
+            },
+            {
+                "speaker": "Sky Newsreader",
+                "line": "...until relatives have been informed, names are being withheld."
+            },
+            {
+                "speaker": "Man (Soldier)",
+                "line": "Watson!! Where are you?!"
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "Man (Soldier)",
+                "line": "I need to find Watson. He was right next to me when the jeep flipped. Please, let him be okay."
+            },
+            {
+                "character": "Watson (Soldier)",
+                "line": "I can't move my leg. The pain is unbearable. I hope someone finds me soon."
+            }
+        ],
+        "actions": [
+            {
+                "character": "Man (Soldier)",
+                "action": "Frantically searches through the wreckage and the surrounding area, calling out for Watson."
+            },
+            {
+                "character": "Other Soldiers",
+                "action": "Some are returning fire, others are administering first aid to the injured, and a few are trying to secure the perimeter."
+            }
+        ],
+        "emotions": {
+            "Man (Soldier)": "Desperate, frightened, determined.",
+            "Watson (Soldier)": "Pained, scared, hopeful.",
+            "Other Soldiers": "Alarmed, focused, adrenaline-fueled.",
+            "Newsreaders": "Professional, somber, concerned."
+        },
+        "outcome": "The scene fades out with the Man (Soldier) still searching for Watson, the fate of the soldiers left uncertain as the newsreaders continue to report on the escalating situation."
+    },
+    {
+        "scene_id": "S01E01_SC01",
+        "title": "Awakening to a New Reality",
+        "location": {
+            "INT. JOHN\u2019S BEDSIT": "A small, sparsely furnished room with a single bed, a desk, and a few neatly folded clothes. The walls are bare, and the atmosphere is somber and quiet.",
+            "INT. THERAPIST\u2019S CONSULTING ROOM": "A professional yet inviting space with comfortable chairs, a desk, and shelves filled with books. Soft lighting creates a calming ambiance."
+        },
+        "time": {
+            "NIGHT": "The dead of night, with only the faint glow of streetlights filtering through the window.",
+            "DAY": "Early morning, as the first light of dawn begins to illuminate the room."
+        },
+        "characters": [
+            "Dr. John Watson",
+            "Ella (Therapist)",
+            "ITN Newsreader (V.O.)",
+            "SKY Newsreader (V.O.)",
+            "Man (V.O.)"
+        ],
+        "scene_description": "John Watson, a war veteran, wakes up from a nightmare, his mind still haunted by the horrors of war. He struggles to adjust to civilian life, seeking solace in writing a blog. His therapist, Ella, encourages him to open up and share his experiences, but John remains guarded and reluctant.",
+        "dialogue": [
+            {
+                "speaker": "ITN Newsreader (V.O.)",
+                "line": "Two more have died in the worst outbreak of violence..."
+            },
+            {
+                "speaker": "SKY Newsreader (V.O.)",
+                "line": "...said his thoughts were with the victims' families..."
+            },
+            {
+                "speaker": "Man (V.O.)",
+                "line": "Watson!!"
+            },
+            {
+                "speaker": "Ella (V.O.)",
+                "line": "How\u2019s your blog going?"
+            },
+            {
+                "speaker": "John",
+                "line": "Oh, fine. Good. Very good."
+            },
+            {
+                "speaker": "Ella",
+                "line": "You haven\u2019t written a word, have you?"
+            },
+            {
+                "speaker": "John",
+                "line": "You just wrote 'still has trust issues'."
+            },
+            {
+                "speaker": "Ella",
+                "line": "And you read my writing upside down. See what I mean?"
+            },
+            {
+                "speaker": "Ella",
+                "line": "John, you\u2019re a soldier. It\u2019s going to take you a while to adjust to civilian life - writing a blog about everything that happens to you, will honestly help you. Trust me."
+            },
+            {
+                "speaker": "John",
+                "line": "Nothing happens to me."
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "John",
+                "line": "The cane... a constant reminder of my limitations. I hate it."
+            },
+            {
+                "character": "John",
+                "line": "The gun... a part of my past I can\u2019t escape. But I have to move on."
+            },
+            {
+                "character": "John",
+                "line": "Writing this blog feels like exposing my soul. I\u2019m not sure I\u2019m ready for that."
+            }
+        ],
+        "actions": [
+            {
+                "character": "John",
+                "action": "Wakes up suddenly, sweating and disoriented."
+            },
+            {
+                "character": "John",
+                "action": "Sits up in bed, taking deep breaths to calm himself."
+            },
+            {
+                "character": "John",
+                "action": "Looks around the room, taking in the sparse surroundings."
+            },
+            {
+                "character": "John",
+                "action": "Frowns at the sight of his walking cane, feeling a mix of resentment and acceptance."
+            },
+            {
+                "character": "John",
+                "action": "Sets down a coffee cup on the desk and opens a drawer to retrieve his laptop, revealing a hidden gun."
+            },
+            {
+                "character": "John",
+                "action": "Stares at the gun for a moment, then firmly closes the drawer."
+            },
+            {
+                "character": "John",
+                "action": "Opens his laptop to a blog page, the cursor blinking expectantly."
+            },
+            {
+                "character": "John",
+                "action": "Sits stiffly in the therapist\u2019s office, feeling out of place and slightly embarrassed."
+            },
+            {
+                "character": "Ella",
+                "action": "Makes a note on her notepad, observing John\u2019s reactions."
+            }
+        ],
+        "emotions": {
+            "John": "Conflicted, guarded, and struggling with his past.",
+            "Ella": "Patient, understanding, and determined to help John."
+        },
+        "outcome": "John remains guarded and reluctant to open up, but Ella\u2019s persistence and understanding offer a glimmer of hope that he might eventually find a way to cope with his past and adjust to civilian life."
+    },
+    {
+        "scene_id": "RAILWAY_STATION_DAY_01",
+        "title": "A Fateful Morning at Waterloo Station",
+        "location": "A bustling London railway station, Waterloo, filled with the hum of commuters, the scent of coffee and newspapers, and the occasional whistle of trains.",
+        "time": "March 12th, mid-morning, under a typical London grey sky.",
+        "characters": [
+            "Sir Jeffrey Patterson",
+            "Helen"
+        ],
+        "scene_description": "The camera pans over the crowded railway station, zooming in on Sir Jeffrey Patterson, a middle-aged man in a well-tailored suit, looking slightly out of place among the rush-hour commuters. He is on his mobile phone, his expression a mix of frustration and urgency.",
+        "dialogue": [
+            {
+                "speaker": "Jeffrey",
+                "line": "Car! There\u2019s no ruddy car!"
+            },
+            {
+                "speaker": "Helen",
+                "line": "He went to Waterloo, sorry. Just get a cab."
+            },
+            {
+                "speaker": "Jeffrey",
+                "line": "I never get cabs!"
+            },
+            {
+                "speaker": "Helen",
+                "line": "I love you."
+            },
+            {
+                "speaker": "Jeffrey",
+                "line": "When?"
+            },
+            {
+                "speaker": "Helen",
+                "line": "Get a cab."
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "Jeffrey",
+                "line": "Why can\u2019t anything go right today? I hate being stranded like this."
+            },
+            {
+                "character": "Helen",
+                "line": "He\u2019s so stubborn, but I can\u2019t help but smile at his determination."
+            }
+        ],
+        "actions": [
+            {
+                "character": "Jeffrey",
+                "action": "Looks around for the TAXI sign, starts heading away, a hint of determination in his stride."
+            },
+            {
+                "character": "Helen",
+                "action": "Smiles, glances around the office, ensuring no one is within earshot before speaking softly into the phone."
+            }
+        ],
+        "emotions": {
+            "Jeffrey": "Frustrated, determined",
+            "Helen": "Amused, affectionate"
+        },
+        "outcome": "Jeffrey, despite his initial reluctance, decides to take a cab, buoyed by Helen\u2019s words of love and support. The scene fades to black, hinting at the ominous events to come."
+    },
+    {
+        "scene_id": "SC015_ROOF_SY",
+        "title": "Conversation on the Roof",
+        "location": "The flat roof of Scotland Yard, offering a panoramic view of London's skyline. The roof is accessible through a rusty service door, surrounded by ventilation ducts and antennas.",
+        "time": "A breezy day, with the sun occasionally hidden behind scattered clouds. The air is filled with the distant hum of the city below.",
+        "characters": [
+            "Detective Inspector Lestrade",
+            "Sherlock Holmes"
+        ],
+        "scene_description": "Lestrade steps onto the roof, the service door creaking shut behind him. He cups his hands around a cigarette, trying to light it in the breeze. He knows he's not alone; Sherlock is already here, his silhouette standing starkly against the city backdrop, lost in thought.",
+        "dialogue": [
+            {
+                "speaker": "Lestrade",
+                "line": "Trying to give these up, actually. I was thinking of a pipe. What do pipes do for you cigarettes don\u2019t?"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Cancer of the jaw."
+            },
+            {
+                "speaker": "Lestrade",
+                "line": "Okay. What am I getting wrong this time?"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "No notes. No prior sign. Each of them in a strange location that means nothing to them where they\u2019ve never gone before... That\u2019s not how I\u2019d kill myself."
+            },
+            {
+                "speaker": "Lestrade",
+                "line": "... So. How are you doing these days?"
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "Lestrade",
+                "line": "Always the dramatics with Sherlock. But he's right, the suicides don't add up."
+            },
+            {
+                "character": "Sherlock",
+                "line": "The city's veins are pulsing with secrets. These deaths, they're not right. Something's connecting them, something we're not seeing."
+            }
+        ],
+        "actions": [
+            {
+                "character": "Lestrade",
+                "action": "Steps through the service door, tries to light a cigarette, looks around the roof, glances uneasily at Sherlock standing near the edge."
+            },
+            {
+                "character": "Sherlock",
+                "action": "Stands at the edge of the roof, looking out over London, his back turned to Lestrade."
+            }
+        ],
+        "emotions": {
+            "Lestrade": "A mix of resignation and curiosity, with a hint of concern for Sherlock's well-being.",
+            "Sherlock": "Introspective, analytical, slightly melancholic, but focused on the case at hand."
+        },
+        "outcome": "Lestrade, despite his initial casual demeanor, shows genuine concern for Sherlock's well-being. Sherlock, engrossed in the peculiarities of the recent suicides, hints at a deeper mystery brewing in the city. The scene resolves with an unspoken agreement between the two men to delve further into the case, their professional bond strengthening."
+    },
+    {
+        "scene_id": "PARK_REUNION_01",
+        "title": "Unexpected Reunion",
+        "location": "A bustling park filled with people strolling, walking their dogs, and jogging. The sun is shining, and the atmosphere is lively and vibrant.",
+        "time": "A bright and clear day, with the sun high in the sky, indicating mid-afternoon.",
+        "characters": [
+            "John Watson",
+            "Mike Stamford"
+        ],
+        "scene_description": "John Watson, limping with the aid of a walking stick, moves determinedly through the park. His face is set in a grim expression, reflecting his inner turmoil and physical pain. The park is alive with activity, but John seems oblivious to his surroundings, focused solely on his journey.",
+        "dialogue": [
+            {
+                "speaker": "Mike",
+                "line": "John!"
+            },
+            {
+                "speaker": "Mike",
+                "line": "John Watson!"
+            },
+            {
+                "speaker": "Mike",
+                "line": "Stamford - Mike Stamford, we were at Barts together."
+            },
+            {
+                "speaker": "John",
+                "line": "Yes. Sorry, yes, Mike, hello!"
+            },
+            {
+                "speaker": "Mike",
+                "line": "Yes, I know, I got fat. I heard you were abroad somewhere getting shot at. What happened?"
+            },
+            {
+                "speaker": "John",
+                "line": "I got shot."
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "John",
+                "line": "Just keep moving. One step at a time. Don't let the pain stop you."
+            },
+            {
+                "character": "Mike",
+                "line": "Is that really John Watson? He looks like he's been through hell."
+            }
+        ],
+        "actions": [
+            {
+                "character": "John",
+                "action": "Hobbles along with a walking stick, his limping leg evident."
+            },
+            {
+                "character": "Mike",
+                "action": "Grabs John's hand and pumps it enthusiastically, a broad smile on his face."
+            }
+        ],
+        "emotions": {
+            "John": "Determined, grim, and slightly uncomfortable with the unexpected encounter.",
+            "Mike": "Excited, friendly, and a bit nostalgic about their past."
+        },
+        "outcome": "John and Mike reconnect after years, with Mike's friendly demeanor contrasting sharply with John's somber mood. The scene ends with a sense of rekindled friendship and a hint of the challenges John has faced."
+    },
+    {
+        "scene_id": "001_PARK_DAY",
+        "title": "Reunion at the Park",
+        "location": "A bustling park on a sunny day. The Criterion Cappuccino Stand is nearby, with people milling about, enjoying their drinks. Birds chirp, and children play in the distance.",
+        "time": "Mid-morning, the sun is high, casting a warm glow over the park. The atmosphere is relaxed and cheerful.",
+        "characters": [
+            "Mike",
+            "John"
+        ],
+        "scene_description": "Mike and John, old friends, walk away from the Cappuccino stand, coffees in hand. John's limp is noticeable, and Mike can't help but glance at the cane John is using.",
+        "dialogue": [
+            {
+                "speaker": "Mike",
+                "line": "You okay?"
+            },
+            {
+                "speaker": "John",
+                "line": "Just my leg."
+            },
+            {
+                "speaker": "Mike",
+                "line": "Bad, is it?"
+            },
+            {
+                "speaker": "John",
+                "line": "My therapist thinks it\u2019s psychosomatic."
+            },
+            {
+                "speaker": "Mike",
+                "line": "What do you think?"
+            },
+            {
+                "speaker": "John",
+                "line": "I think I got shot."
+            },
+            {
+                "speaker": "John",
+                "line": "You\u2019re still at Barts then?"
+            },
+            {
+                "speaker": "Mike",
+                "line": "Teaching now - bright young things, like we used to be. God, I hate them. What about you? Staying in town till you get yourself sorted?"
+            },
+            {
+                "speaker": "John",
+                "line": "Can\u2019t afford London on an army pension."
+            },
+            {
+                "speaker": "Mike",
+                "line": "And you couldn\u2019t bear to be anywhere else. Not the John Watson I know!"
+            },
+            {
+                "speaker": "John",
+                "line": "I\u2019m not the John Watson you --"
+            },
+            {
+                "speaker": "Mike",
+                "line": "Couldn\u2019t Harry help?"
+            },
+            {
+                "speaker": "John",
+                "line": "Yeah, that\u2019s going to happen."
+            },
+            {
+                "speaker": "Mike",
+                "line": "Well I don\u2019t know - get a flatshare or something?"
+            },
+            {
+                "speaker": "John",
+                "line": "Who\u2019d want me for a flatmate?"
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "John",
+                "line": "I don\u2019t want to get into all this. It\u2019s too painful to discuss."
+            },
+            {
+                "character": "Mike",
+                "line": "John looks tired, worn down. I wish there was more I could do to help."
+            }
+        ],
+        "actions": [
+            {
+                "character": "John",
+                "line": "Raises his Cappuccino for a sip, but his hand is shaking badly. He sets it down again, trying to hide his discomfort."
+            },
+            {
+                "character": "Mike",
+                "line": "Notices John\u2019s shaking hand and feels a pang of concern."
+            }
+        ],
+        "emotions": {
+            "Mike": "Concerned, empathetic",
+            "John": "Frustrated, guarded"
+        },
+        "outcome": "The conversation reveals John's struggles with his injury and financial situation, highlighting the emotional strain he's under. Mike's concern is evident, but John remains guarded, unwilling to delve deeper into his problems."
+    },
+    {
+        "scene_id": "SC025-26",
+        "title": "Jennifer's Journey and the Mystery at Lauriston Gardens",
+        "location": {
+            "EXT. RAILWAY STATION": "A bustling railway station with a long queue at the taxi rank. The sound of trains and people chattering fills the air.",
+            "INT. LAURISTON GARDENS": "A dimly lit, abandoned apartment with bare floorboards and a sense of eerie silence."
+        },
+        "time": {
+            "EXT. RAILWAY STATION": "A bright, sunny day with clear skies.",
+            "INT. LAURISTON GARDENS": "Later that day, with a slightly gloomy atmosphere."
+        },
+        "characters": [
+            "Jennifer Wilson",
+            "Unknown Caller"
+        ],
+        "scene_description": {
+            "EXT. RAILWAY STATION": "Jennifer Wilson stands in the queue, dressed entirely in pink, including a pink-covered iPhone. She looks determined yet slightly anxious, trying to reassure someone on the phone.",
+            "INT. LAURISTON GARDENS": "A mysterious pill bottle stands alone on the bare floorboards. The room is quiet, and the atmosphere is tense."
+        },
+        "dialogue": [
+            {
+                "speaker": "Jennifer Wilson",
+                "line": "One hour, I\u2019ll be there. Honestly, I\u2019ll be there. You get the drinks in."
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "Jennifer Wilson",
+                "line": "I hope I can make it on time. I don't want to let them down."
+            }
+        ],
+        "actions": [
+            {
+                "character": "Jennifer Wilson",
+                "action": "Shuffles forward in the queue, holding her pink-covered iPhone tightly."
+            },
+            {
+                "character": "Unknown",
+                "action": "A pink-fingernailed hand reaches into shot, taking the pill bottle."
+            }
+        ],
+        "emotions": {
+            "Jennifer Wilson": "Determined yet slightly anxious",
+            "Unknown Caller": "Impatient but hopeful"
+        },
+        "outcome": "Jennifer's determination to reach her destination is highlighted as the scene fades to black. The mystery deepens as a pink-fingernailed hand reaches for the pill bottle in the abandoned apartment, leaving the audience in suspense."
+    },
+    {
+        "scene_id": "SC001",
+        "title": "First Encounter at Baker Street",
+        "location": "The iconic Baker Street in London, with its bustling energy and historic charm. The exterior of 221B Baker Street is quintessentially Victorian, while the interior is a chaotic mix of modern technology and antiquated curiosities.",
+        "time": "A crisp, sunny afternoon. The kind of day that makes London feel alive and full of possibilities.",
+        "characters": [
+            "Sherlock Holmes",
+            "John Watson",
+            "Mrs. Hudson",
+            "DI Lestrade"
+        ],
+        "scene_description": "The scene opens with a close-up of the Baker Street sign, panning to the famous 221B door. John Watson, a man with a military bearing and a hint of weariness, is about to ring the doorbell. Sherlock Holmes, eccentric and brilliant, emerges from a cab, paying the driver with a distracted air.",
+        "dialogue": [
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Hi."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Mr. Holmes!"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Sherlock, please."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Prime spot. Got to be expensive."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Mrs. Hudson, the landlady. She\u2019s giving me a special deal. Owes me a favour - few years ago, her husband got himself sentenced to death in Florida. I was able to help out."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "You stopped her husband being executed."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Oh, no. I ensured it."
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "Sherlock!"
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Well! This could be very nice. Very nice indeed."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Yes, I think so. My thoughts exactly."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Soon as we get all this rubbish cleaned out."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "So I went ahead and moved in."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "So, this is all --"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Obviously I can straighten things up a bit."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "That\u2019s a skull."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Friend of mine. Well I say friend..."
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "What do you think, Dr. Watson - there\u2019s another bedroom upstairs. If you\u2019ll be needing two bedrooms..."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Well of course we\u2019ll be needing two."
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "Oh don\u2019t you worry, all sorts round here. Mrs. Turner next door\u2019s got married ones. Oh, Sherlock, the mess you\u2019ve made."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Looked you up on the Internet last night."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Anything interesting?"
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Found your website - The Science of Deduction."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "What did you think?"
+            },
+            {
+                "speaker": "John Watson",
+                "line": "You said you could identify a software designer by his tie, and an airline pilot by his left thumb."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Yes. And I can read your military career in your face and your leg, and the drinking habits of your brother in your mobile phone."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "How?"
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "What about these suicides, then, Sherlock? Thought that would be right up your street. Three of them, exactly the same. That\u2019s a bit funny, isn\u2019t it?"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Four. There\u2019s been a fourth. And there\u2019s something different this time."
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "A fourth? How do you know?"
+            },
+            {
+                "speaker": "DI Lestrade",
+                "line": "Brixton. Lauriston Gardens."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "What\u2019s different about this one. You wouldn\u2019t have come to get me, if there wasn\u2019t something new."
+            },
+            {
+                "speaker": "DI Lestrade",
+                "line": "You know how they never leave notes? This one did. Will you come?"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Who\u2019s on Forensics?"
+            },
+            {
+                "speaker": "DI Lestrade",
+                "line": "Anderson."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Anderson won\u2019t work with me."
+            },
+            {
+                "speaker": "DI Lestrade",
+                "line": "He won\u2019t be your assistant."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "But I need an assistant."
+            },
+            {
+                "speaker": "DI Lestrade",
+                "line": "Will you come?"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Not in a police car. I\u2019ll be right behind you."
+            },
+            {
+                "speaker": "DI Lestrade",
+                "line": "Thankyou!"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Brilliant!"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "And I thought it was going to be a boring evening. Serial suicides, and now a note - oh, it\u2019s Christmas!"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Mrs. Hudson, I\u2019ll be late - might need some food."
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "I\u2019m your landlady, dear, not your housekeeper."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Something cold is fine. John make yourself at home - have a cuppa! Don\u2019t wait up!"
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "Oh, look at him, dashing about? My husband was just the same."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Damn my leg!"
+            },
+            {
+                "speaker": "John Watson",
+                "line": "I\u2019m sorry, I\u2019m so sorry, it\u2019s just sometimes ... bloody thing."
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "I understand, dear. I\u2019ve got a hip."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "A cup of tea would be lovely, thank you."
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "Just this once, dear - I\u2019m not your housekeeper."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Couple of biscuits too, if you\u2019ve got them."
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "Not your housekeeper."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "You\u2019re a doctor."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Yes."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "In fact, you\u2019re an army doctor."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Any good?"
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Very good."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Seen a lot of injuries then. Violent deaths?"
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Well, yes."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Bit of trouble too, I bet."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Of course, yes. Enough for a lifetime. Far too much."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Want to see some more?"
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Oh, God, yes!"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Get your coat."
+            },
+            {
+                "speaker": "John Watson",
+                "line": "Sorry, Mrs. Hudson, I\u2019ll skip the cuppa - off out."
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "Both of you?"
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Impossible suicides - four of them. No point in sitting at home when there\u2019s finally something fun going on!"
+            },
+            {
+                "speaker": "Mrs. Hudson",
+                "line": "Look at you, all happy. It\u2019s not decent."
+            },
+            {
+                "speaker": "Sherlock Holmes",
+                "line": "Who cares about decent. The game, Mrs. Hudson, is on!"
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "John Watson",
+                "line": "Who is this guy? He\u2019s eccentric, brilliant, and completely unpredictable."
+            },
+            {
+                "character": "Sherlock Holmes",
+                "line": "John Watson - a man of action, a doctor with a military past. He could be useful."
+            },
+            {
+                "character": "Mrs. Hudson",
+                "line": "These two are going to be quite the pair. I can already tell this is going to be interesting."
+            }
+        ],
+        "actions": [
+            {
+                "character": "John Watson",
+                "action": "Rings the doorbell at 221B Baker Street."
+            },
+            {
+                "character": "Sherlock Holmes",
+                "action": "Pays the cab driver and approaches John Watson."
+            },
+            {
+                "character": "Mrs. Hudson",
+                "action": "Opens the door and greets Sherlock Holmes with a joyous hug."
+            },
+            {
+                "character": "John Watson",
+                "action": "Enters the chaotic sitting room, looking around in amazement."
+            },
+            {
+                "character": "Sherlock Holmes",
+                "action": "Busies himself at his desk, stuffing things into his pockets."
+            },
+            {
+                "character": "Mrs. Hudson",
+                "action": "Bustles about, straightening up the room."
+            },
+            {
+                "character": "DI Lestrade",
+                "action": "Enters the room, feet thumping on the stairs."
+            },
+            {
+                "character": "Sherlock Holmes",
+                "action": "Leaps over the sofa and dashes for the door."
+            },
+            {
+                "character": "John Watson",
+                "action": "Hesitates for a second, then dashes after Sherlock Holmes."
+            },
+            {
+                "character": "Mrs. Hudson",
+                "action": "Pokes her head out of the door at the foot of the stairs."
+            }
+        ],
+        "emotions": {
+            "John Watson": "Curious, slightly bemused, and increasingly excited.",
+            "Sherlock Holmes": "Energetic, focused, and thrilled by the prospect of a new case.",
+            "Mrs. Hudson": "Joyous, slightly exasperated, and faintly knowing.",
+            "DI Lestrade": "Urgent, slightly relieved to have Sherlock\u2019s help."
+        },
+        "outcome": "The scene resolves with Sherlock Holmes and John Watson dashing out of 221B Baker Street, eager to investigate the mysterious suicides. Mrs. Hudson watches them go, slightly bemused but understanding that something exciting is afoot."
+    },
+    {
+        "scene_id": "SC001",
+        "title": "First Encounter and the Ride to the Crime Scene",
+        "location": "The iconic Baker Street in London, with its bustling energy and historic charm. The interior of a speeding taxi, with the city lights flashing by.",
+        "time": "A bright, energetic day transitioning into a bustling night in the heart of London.",
+        "characters": [
+            "Sherlock Holmes",
+            "Dr. John Watson"
+        ],
+        "scene_description": "Sherlock Holmes and Dr. John Watson burst out of the door at Baker Street for the first time, marking an iconic moment. Sherlock hurriedly hails a taxi, and they speed through the streets of London. Inside the taxi, Sherlock's mind is racing as he answers Watson's questions with his signature deductive brilliance, revealing insights into Watson's past and his own unique profession.",
+        "dialogue": [
+            {
+                "speaker": "Sherlock",
+                "line": "Taxi!"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Okay, you\u2019ve got questions!"
+            },
+            {
+                "speaker": "John",
+                "line": "Where are we going?"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Crime scene, next."
+            },
+            {
+                "speaker": "John",
+                "line": "Who are you? What do you do?"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "What do you think?"
+            },
+            {
+                "speaker": "John",
+                "line": "I\u2019d say you were a private detective but --"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "But?"
+            },
+            {
+                "speaker": "John",
+                "line": "The police don\u2019t go to private detectives."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "I\u2019m a consulting detective. Only one in the world, I invented the job."
+            },
+            {
+                "speaker": "John",
+                "line": "What does that mean?"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "It means when the police are out of their depth - which is always - they consult me."
+            },
+            {
+                "speaker": "John",
+                "line": "But the police don\u2019t consult --"
+            },
+            {
+                "speaker": "John",
+                "line": "Amateurs."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "When I first met you yesterday I said, Afghanistan or Iraq? You seemed surprised."
+            },
+            {
+                "speaker": "John",
+                "line": "How did you know?"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "I didn\u2019t know. I saw."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Tanned face -- but no tan above the wrists. You\u2019ve been abroad but not sunbathing."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Your haircut and the way you hold yourself says military - but your conversation as you entered the room -- says you trained at Barts. So - army doctor. Obvious!"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Your limp is really bad when you walk, but you don\u2019t ask for a chair when you stand, like you\u2019ve forgotten about it - so it\u2019s at least partly psychosomatic. That says the circumstances of the original injury were traumatising - wounded in action then."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Wounded in action, a suntan. Afghanistan or Iraq?"
+            },
+            {
+                "speaker": "John",
+                "line": "You said I had a therapist."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "You\u2019ve got psychosomatic limp, of course you\u2019ve got a therapist. Then there\u2019s your brother --"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Your phone. Expensive, email enabled, mp3 player - you\u2019re looking for a flatshare, you wouldn\u2019t waste money on this. It\u2019s a gift then."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Scratches - not just one, but many over time. Been in the same pocket as keys and coins. The man in front of me wouldn\u2019t treat his one luxury item like this, so there\u2019s been a previous owner. Next bit\u2019s easy - you know it already."
+            },
+            {
+                "speaker": "John",
+                "line": "The engraving."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Harry Watson - clearly a family member who\u2019s given you his old phone. Not your father - this is a young man\u2019s gadget. Could be a cousin, but you\u2019re a war hero who can\u2019t find a place to live - unlikely you\u2019ve got an extended family, certainly not one you\u2019re close to. So - brother it is."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Now Clara, who\u2019s Clara - three kisses says it\u2019s a romantic attachment, the expense of the phone says wife not girlfriend. She must have given it to him recently, this model\u2019s only six months old. It\u2019s a marriage in trouble then - six months on he\u2019s just given it away. If she\u2019d left him, he\u2019d probably have kept the phone - people do, sentiment - but no, he wanted rid of it: he left her. He gave the phone to you - that says he wants you to stay in touch."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "You\u2019re looking for cheap accommodation, but you\u2019re not going to your brother for help - that says you\u2019ve got problems with him. Maybe you liked his wife, maybe you don\u2019t like his drinking --"
+            },
+            {
+                "speaker": "John",
+                "line": "How can you possibly know about the drinking?"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Shot in the dark - good one though. The power connection. Tiny little scuff marks all round it - he plugs it in every night to recharge, but his hands are shaking. Never see those marks on a sober man\u2019s phone, never see a drunk\u2019s without them."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "There you go, you see? You were right."
+            },
+            {
+                "speaker": "John",
+                "line": "I was right? Right about what?"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "The police don\u2019t consult amateurs."
+            },
+            {
+                "speaker": "John",
+                "line": "That was ... amazing."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Do you think so?"
+            },
+            {
+                "speaker": "John",
+                "line": "Well, of course it was. It was extraordinary. Quite extraordinary."
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "That\u2019s not what people usually say."
+            },
+            {
+                "speaker": "John",
+                "line": "What do they usually say?"
+            },
+            {
+                "speaker": "Sherlock",
+                "line": "Piss off."
+            }
+        ],
+        "thoughts": [
+            {
+                "character": "Sherlock",
+                "line": "This man is intriguing. His past is a puzzle, and I love puzzles."
+            },
+            {
+                "character": "John",
+                "line": "Who is this man? He\u2019s unlike anyone I\u2019ve ever met."
+            }
+        ],
+        "actions": [
+            {
+                "character": "Sherlock",
+                "action": "Hails a taxi and jumps in, eager to get to the crime scene."
+            },
+            {
+                "character": "John",
+                "action": "Follows Sherlock into the taxi, trying to keep up with his rapid deductions."
+            },
+            {
+                "character": "Sherlock",
+                "action": "Flicks through items on his PDA, his mind racing with deductions."
+            },
+            {
+                "character": "John",
+                "action": "Listens intently, a mix of awe and confusion on his face."
+            },
+            {
+                "character": "Sherlock",
+                "action": "Tosses John\u2019s phone back to him, having made his point."
+            },
+            {
+                "character": "John",
+                "action": "Stares at Sherlock, genuinely impressed and a bit overwhelmed."
+            }
+        ],
+        "emotions": {
+            "Sherlock": "Excited, focused, slightly pleased by John\u2019s reaction.",
+            "John": "Awestruck, confused, impressed."
+        },
+        "outcome": "Sherlock impresses John with his deductive skills, setting the stage for their future partnership. The taxi ride ends with John's newfound respect for Sherlock's abilities, despite his unorthodox methods."
+    }
+]

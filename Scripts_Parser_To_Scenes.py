@@ -34,9 +34,6 @@ def get_scenes(file_name):
 
 
 
-
-
-
 for file in dir_list:
     get_scenes(file)
     
